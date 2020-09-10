@@ -24,6 +24,20 @@
 ```
 
 # 구현파일
++ 블로그
+```
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/blog/controller/BlogController.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/blog/service/BlogServiceImpl.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/blog/dao/BlogDAOMybatis.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/blog/dao/blogMapper.xml
 ```
 
++ 마이페이지
+```
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/bean/FollowDTO.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/bean/LikeDTO.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/controller/MyblogController.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/service/MyblogServiceImpl.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/dao/MyblogDaoMybatis.java
+https://github.com/eoghddl2791/morip/blob/master/morip/src/main/java/myblog/dao/myblogMapper.xml
 ```
